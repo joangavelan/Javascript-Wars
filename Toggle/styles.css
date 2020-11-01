@@ -1,0 +1,20 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    padding: 2rem 3rem;
+    font-size: 50px;
+    outline: 0;
+    border: 0;
+    background-color: limegreen;
+    color: white;
+    cursor: pointer;
+}
+
+.red {
+    background-color: maroon    ;
+}
